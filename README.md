@@ -9,7 +9,7 @@ This project includes two parts: source.zip and sample.zip.
 
 To embed our OBA scheme into HM 14.0 software, please replace the corresponding .cpp(s) (or .h(s)) in the original ''source'' file with those in our ''source'' file. 
 
-The sample file provides one of the configurations (non-hierarchichal case) we have used in our test, including the parameter settings in our experiment of the paper: Optimal Bit Allocation for CTU Level Rate Control in HEVC.
+The sample file provides one of the configurations (non-hierarchichal case) we have used in our test, including the parameter settings in our experiment of the paper: Optimal Bit Allocation for CTU Level Rate Control in HEVC. If there is any queries, please contact MaiXu@buaa.edu.cn. 
 
 ##Terms of use
 The code is provided for research purposes only and without any warranty. Any commercial use is prohibited.
